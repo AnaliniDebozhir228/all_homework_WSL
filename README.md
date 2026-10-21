@@ -18,8 +18,8 @@
 
 ## 🛠 Используемые технологии
 
-- **ОС:** Windows / Linux
-- **Инструменты:** PowerShell, Bash, VirtualBox / VMware
+- **ОС:** Windows / Linux (Ubuntu)
+- **Инструменты:** PowerShell, Bash, WSL
 - **Документация:** Markdown, Word, PDF
 
 ---
